@@ -9,7 +9,7 @@ public class Greeter {
    * This is a constructor.
    */
   public Greeter() {
-      var test = 1;
+      var test = 12;
   }
 
   /**
